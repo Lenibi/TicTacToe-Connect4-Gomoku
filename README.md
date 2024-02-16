@@ -1,6 +1,6 @@
 # Tic Tac Toe - Connect 4 - Gomoku
 <a href="https://lenibi.github.io/TicTacToe-Connect4-Gomoku/">Click Here To Play</a>
-$${\color{red}Allow some loading time! Project may take a minute to load.}$$
+Please allow some loading time! Project may take from 5 seconds to a minute to load.
 
 <img src="./ReadMe_Images/ss4.png">
 <img src="./ReadMe_Images/ss5.png">
