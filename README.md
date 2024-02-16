@@ -1,6 +1,7 @@
 # Tic Tac Toe - Connect 4 - Gomoku
 <a href="https://lenibi.github.io/TicTacToe-Connect4-Gomoku/">Click Here To Play</a>
-Please allow some loading time! Project may take from 5 seconds to a minute to load.
+#### Please allow some loading time! Project may take from 5 seconds to a minute to load. 
+#####Works best on a PC 1080p 16:9 screen. Runs on mobile horizontally but not as well. On mobile, rotating screen orientation may break the game.
 
 <img src="./ReadMe_Images/ss4.png">
 <img src="./ReadMe_Images/ss5.png">
