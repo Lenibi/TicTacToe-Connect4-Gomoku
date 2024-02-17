@@ -9,6 +9,9 @@ Works best on a PC 1080p 16:9 screen. Runs on mobile horizontally but not as wel
 <img src="./ReadMe_Images/ss3.png">
 <img src="./ReadMe_Images/ss1.png">
 
+## Gameplay Showcase
+https://youtu.be/HJl8d4lF8Bg
+
 ## Description
 
 My first Unity project on my own after following a lot of tutorials. Simple game to try out UI, sounds, animations, game logic, and general Unity knowledge. Exported to WebGL for easier playability.
